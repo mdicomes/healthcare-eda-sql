@@ -46,7 +46,7 @@ then open either notebook.
 
 | Notebook | Contents |
 |---|---|
-| `01_sql_analysis.ipynb` | Schema design, SQLite build, cohort queries, window functions, CTEs |
+| `01_schema_and_sql.ipynb` | Schema design, SQLite build, cohort queries, window functions, CTEs |
 | `02_visualization.ipynb` | Matplotlib, Seaborn, Plotly, publication-quality styling, export |
 
 ---
